@@ -1,8 +1,9 @@
 # AreaTriangulo.bash
-Operación sencilla en BASH que saca el área de un Triángulo..
+Operación sencilla en **BASH** que saca el *área de un **Triángulo***..
 
 
-`
+```
+
 #! /bin/bash
 clear
 
@@ -14,3 +15,5 @@ read altura
 
 ((area=($base\*$altura)/2))
 echo $area
+
+```
